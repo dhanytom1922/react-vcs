@@ -1,5 +1,19 @@
 # React + Vite
 
+
+TRAINING ABOUT:
+- ATOMIC DESIGN
+- REACT ROUTER
+- DYNAMIC ROUTING
+- NESTED COMPONENTS
+- RENDERING LIST
+- EVENT HANDLER
+- STATE
+- LIFECYCLE
+- GET API, POST API (AXIOS)
+- HOOKS, CUSTOM HOOKS
+- STATE MANAGEMENT (REDUX, CONTEXT)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
