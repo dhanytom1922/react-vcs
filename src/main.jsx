@@ -15,7 +15,7 @@ import DarkModeContextProvider from "./context/DarkMode.jsx";
 import { TotalPriceProvider } from "./context/TotalPriceContext.jsx";
 
 const router = createBrowserRouter([
-  { path: "/", element: <div>Home</div>, errorElement: <ErrorPage /> },
+  { path: "/", element: <LoginPage />, errorElement: <ErrorPage /> },
   { path: "/login", element: <LoginPage /> },
   { path: "/register", element: <RegisterPage /> },
   { path: "/products", element: <ProductsPage /> },

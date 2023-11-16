@@ -1,5 +1,6 @@
 # React + Vite
 
+Go to https://fakestoreapi.com/docs and scroll to tab User Login at the bottom to get Username and Password.
 
 TRAINING ABOUT:
 - ATOMIC DESIGN
